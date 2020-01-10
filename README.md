@@ -1,4 +1,4 @@
-# Auto-pairs
+# auto-pairs
 
 [![Build Status][Badge]][Travis]
 [![IRC][IRC Badge]][IRC]
